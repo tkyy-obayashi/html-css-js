@@ -14,3 +14,6 @@
 
 # mainブランチの変更
 　branch01ではaddしてcommitもせずに変更している
+
+##git reset --hard で消す行
+　20230522　TRY
